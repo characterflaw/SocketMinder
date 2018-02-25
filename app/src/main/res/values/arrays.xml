@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="standard_14_drive_6_point">
+        <item>7/32\"</item>
+        <item>1/4\"</item>
+        <item>3/8\"</item>
+        <item>7/16\"</item>
+        <item>1/2\"</item>
+        <item>9/16\"</item>
+        <item>5/8\"</item>
+        <item>11/16\"</item>
+        <item>3/4\"</item>
+        <item>13/16\"</item>
+        <item>7/8\"</item>
+        <item>15/16\"</item>
+        <item>1\"</item>
+        <item>1 1/8\"</item>
+        <item>1 1/4\"</item>
+        <item>1 3/8\"</item>
+    </string-array>
+
+    <string-array name="standard_38_drive_6_point">
+        <item>7/32\"</item>
+        <item>1/4\"</item>
+        <item>3/8\"</item>
+        <item>7/16\"</item>
+        <item>1/2\"</item>
+        <item>9/16\"</item>
+        <item>5/8\"</item>
+        <item>11/16\"</item>
+        <item>3/4\"</item>
+        <item>13/16\"</item>
+        <item>7/8\"</item>
+        <item>15/16\"</item>
+        <item>1\"</item>
+        <item>1 1/8\"</item>
+        <item>1 1/4\"</item>
+        <item>1 3/8\"</item>
+    </string-array>
+
+    <string-array name="standard_12_drive_6_point">
+        <item>7/32\"</item>
+        <item>1/4\"</item>
+        <item>3/8\"</item>
+        <item>7/16\"</item>
+        <item>1/2\"</item>
+        <item>9/16\"</item>
+        <item>5/8\"</item>
+        <item>11/16\"</item>
+        <item>3/4\"</item>
+        <item>13/16\"</item>
+        <item>7/8\"</item>
+        <item>15/16\"</item>
+        <item>1\"</item>
+        <item>1 1/8\"</item>
+        <item>1 1/4\"</item>
+        <item>1 3/8\"</item>
+    </string-array>
+
+    <string-array name="standard_14_drive_12_point">
+        <item>7/32\"</item>
+        <item>1/4\"</item>
+        <item>3/8\"</item>
+        <item>7/16\"</item>
+        <item>1/2\"</item>
+        <item>9/16\"</item>
+        <item>5/8\"</item>
+        <item>11/16\"</item>
+        <item>3/4\"</item>
+        <item>13/16\"</item>
+        <item>7/8\"</item>
+        <item>15/16\"</item>
+        <item>1\"</item>
+        <item>1 1/8\"</item>
+        <item>1 1/4\"</item>
+        <item>1 3/8\"</item>
+    </string-array>
+
+    <string-array name="standard_38_drive_12_point">
+        <item>7/32\"</item>
+        <item>1/4\"</item>
+        <item>3/8\"</item>
+        <item>7/16\"</item>
+        <item>1/2\"</item>
+        <item>9/16\"</item>
+        <item>5/8\"</item>
+        <item>11/16\"</item>
+        <item>3/4\"</item>
+        <item>13/16\"</item>
+        <item>7/8\"</item>
+        <item>15/16\"</item>
+        <item>1\"</item>
+        <item>1 1/8\"</item>
+        <item>1 1/4\"</item>
+        <item>1 3/8\"</item>
+    </string-array>
+
+    <string-array name="standard_12_drive_12_point">
+        <item>7/32\"</item>
+        <item>1/4\"</item>
+        <item>3/8\"</item>
+        <item>7/16\"</item>
+        <item>1/2\"</item>
+        <item>9/16\"</item>
+        <item>5/8\"</item>
+        <item>11/16\"</item>
+        <item>3/4\"</item>
+        <item>13/16\"</item>
+        <item>7/8\"</item>
+        <item>15/16\"</item>
+        <item>1\"</item>
+        <item>1 1/8\"</item>
+        <item>1 1/4\"</item>
+        <item>1 3/8\"</item>
+    </string-array>
+
+    <string-array name="metric_14_drive_6_point">
+        <item>4mm</item>
+        <item>4.5mm</item>
+        <item>5mm</item>
+        <item>6mm</item>
+        <item>7mm</item>
+        <item>8mm</item>
+        <item>9mm</item>
+        <item>10mm</item>
+        <item>11mm</item>
+        <item>12mm</item>
+        <item>13mm</item>
+        <item>14mm</item>
+        <item>15mm</item>
+        <item>16mm</item>
+        <item>17mm</item>
+        <item>18mm</item>
+        <item>19mm</item>
+        <item>20mm</item>
+    </string-array>
+
+    <string-array name="metric_38_drive_6_point">
+        <item>5mm</item>
+        <item>6mm</item>
+        <item>7mm</item>
+        <item>8mm</item>
+        <item>9mm</item>
+        <item>10mm</item>
+        <item>11mm</item>
+        <item>12mm</item>
+        <item>13mm</item>
+        <item>14mm</item>
+        <item>15mm</item>
+        <item>16mm</item>
+        <item>17mm</item>
+        <item>18mm</item>
+        <item>19mm</item>
+        <item>20mm</item>
+        <item>21mm</item>
+    </string-array>
+
+    <string-array name="metric_12_drive_6_point">
+        <item>10mm</item>
+        <item>11mm</item>
+        <item>12mm</item>
+        <item>13mm</item>
+        <item>14mm</item>
+        <item>15mm</item>
+        <item>16mm</item>
+        <item>17mm</item>
+        <item>18mm</item>
+        <item>19mm</item>
+        <item>20mm</item>
+        <item>21mm</item>
+        <item>22mm</item>
+        <item>23mm</item>
+        <item>24mm</item>
+        <item>25mm</item>
+    </string-array>
+
+    <string-array name="metric_14_drive_12_point">
+        <item>4mm</item>
+        <item>4.5mm</item>
+        <item>5mm</item>
+        <item>6mm</item>
+        <item>7mm</item>
+        <item>8mm</item>
+        <item>9mm</item>
+        <item>10mm</item>
+        <item>11mm</item>
+        <item>12mm</item>
+        <item>13mm</item>
+        <item>14mm</item>
+        <item>15mm</item>
+        <item>16mm</item>
+        <item>17mm</item>
+        <item>18mm</item>
+        <item>19mm</item>
+        <item>20mm</item>
+    </string-array>
+
+    <string-array name="metric_38_drive_12_point">
+        <item>5mm</item>
+        <item>6mm</item>
+        <item>7mm</item>
+        <item>8mm</item>
+        <item>9mm</item>
+        <item>10mm</item>
+        <item>11mm</item>
+        <item>12mm</item>
+        <item>13mm</item>
+        <item>14mm</item>
+        <item>15mm</item>
+        <item>16mm</item>
+        <item>17mm</item>
+        <item>18mm</item>
+        <item>19mm</item>
+        <item>20mm</item>
+        <item>21mm</item>
+    </string-array>
+
+    <string-array name="metric_12_drive_12_point">
+        <item>10mm</item>
+        <item>11mm</item>
+        <item>12mm</item>
+        <item>13mm</item>
+        <item>14mm</item>
+        <item>15mm</item>
+        <item>16mm</item>
+        <item>17mm</item>
+        <item>18mm</item>
+        <item>19mm</item>
+        <item>20mm</item>
+        <item>21mm</item>
+        <item>22mm</item>
+        <item>23mm</item>
+        <item>24mm</item>
+        <item>25mm</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Socket Minder</string>
+
+    <string name="standard">Standard</string>
+    <string name="metric">Metric</string>
+
+    <string name="points_6">6 Points</string>
+    <string name="points_12">12 Points</string>
+
+    <string name="drive_14">1/4\" Drive</string>
+    <string name="drive_38">3/8\" Drive</string>
+    <string name="drive_12">1/2\" Drive</string>
+
+
+</resources>
